@@ -1,0 +1,2 @@
+hola = 'dario'
+print(hola)
